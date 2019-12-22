@@ -9,48 +9,49 @@ body{
 
 /* header */
 .hlogo {
+  color: purple;
   font-size: 30px;
   margn: 0pc;
   padding 0px;
-  background-color: aqua;
+  background-color: white;
   color: purple;
 }
-
-
-
-
-
-
-
-
 
 .header{
   background-color: white;
   margin: 0px;
-  padding: 0px;
+  width: 2000px;
+  padding: 0px,20px,0px,20px;
 }
 
 
-.Gname{
-  color:purple;
-  float: left;
-  font-size: 36px;
+.hlist{
   margin: 0px;
-  padding: 20px,40px;
-  background-color: white;
 }
 
-.header-list li{
+.hlist ul{
+  margin: 0px;
+  padding-left: 0px;
+  padding-right: 10px;
+}
+
+.hlist li{
   float: left;
-  padding: 33px,20px;
   list-style: none;
-  background-color: white;
+  background-color: aqua;
+  color: white;
+  margin: 0px;
 }
 
+.hll{
+  padding-left: 10px;
+  padding-right: 100px;
+}
 
+.hlh{
+  padding-right: 100px;
+}
 
-.Gname2{
-  color: aqua;
-  margin: 0px;
-  padding: 0px;
+.hld{
+  padding-right: 10px;
 }
