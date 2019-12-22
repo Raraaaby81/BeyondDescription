@@ -1,11 +1,56 @@
+body{
+  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/* header */
+.hlogo {
+  font-size: 30px;
+  margn: 0pc;
+  padding 0px;
+  background-color: aqua;
+  color: purple;
+}
+
+
+
+
+
+
+
+
+
+.header{
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+
 .Gname{
   color:purple;
+  float: left;
+  font-size: 36px;
+  margin: 0px;
+  padding: 20px,40px;
+  background-color: white;
 }
 
-.Mname{
-  color:aqua;
+.header-list li{
+  float: left;
+  padding: 33px,20px;
+  list-style: none;
+  background-color: white;
 }
 
-.update{
-  color:red;
+
+
+.Gname2{
+  color: aqua;
+  margin: 0px;
+  padding: 0px;
 }
