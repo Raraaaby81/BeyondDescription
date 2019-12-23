@@ -1,21 +1,28 @@
+/* body */
 body{
   background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
   background-size: cover;
   background-attachment: fixed;
   margin: 0px;
   padding: 0px;
+  width: 100%;
 }
+
 
 
 /* header */
 .hlogo {
+  font-family: "Franklin Gothic Medium";
   color: purple;
-  font-size: 30px;
-  margn: 0pc;
-  padding 0px;
+  font-size: 2.4vw;
+  margin: 0px;
+  padding: 0.1vw 0vw 0.1vw 0.5vw;
+  padding-top: 0.1vw;
+  padding-bottom: 0.1vw;
   background-color: white;
   color: purple;
 }
+
 
 .header{
   background-color: white;
@@ -23,7 +30,6 @@ body{
   width: 2000px;
   padding: 0px,20px,0px,20px;
 }
-
 
 .hlist{
   margin: 0px;
@@ -41,17 +47,100 @@ body{
   background-color: aqua;
   color: white;
   margin: 0px;
+  padding-top: 0.1vw;
+  padding-bottom: 0.1vw;
 }
 
 .hll{
-  padding-left: 10px;
-  padding-right: 100px;
+  padding-left: 2vw;
+  padding-right: 4vw;
 }
 
 .hlh{
-  padding-right: 100px;
+  padding-right: 4vw;
 }
 
 .hld{
-  padding-right: 10px;
+  padding-right: 100vw;
+}
+
+
+
+/* main */
+.main{
+  background-color: white;
+  margin: 4vw 10vw;
+  padding: 0.2vw 8vw;
+}
+
+
+/* main-First */
+.mf{
+  color: orange;
+  font-size: 2.5vw;
+  padding-left: 3.5vw;
+}
+
+
+/* main-Info */
+.mit{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-left: 28vw;
+  padding-right: 28vw;
+}
+
+.mi{
+  font-family: YuMincho;
+}
+
+
+/* main-About us*/
+.maut{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-left: 24vw;
+  padding-right: 24vw;
+}
+
+.mau{
+  font-family: YuMincho;
+}
+
+
+/* main-Guild requirement */
+.mgrt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-left: 21vw;
+  padding-right: 21vw;
+}
+
+.mgr{
+  font-family: YuMincho;
+}
+
+
+/* main-How to apply */
+.mhtat{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-left: 21vw;
+  padding-right: 21vw;
+}
+
+.mhta{
+  font-family: YuMincho;
+}
+
+
+/* main-Members */
+.mmt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-left: 24vw;
+}
+
+.mm{
+  font-family: YuMincho;
 }
