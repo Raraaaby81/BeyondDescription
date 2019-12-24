@@ -1,146 +1,97 @@
-/* body */
-body{
-  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
-  background-size: cover;
-  background-attachment: fixed;
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
-}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Beyond Description</title>
+    <link rel="stylesheet" type="text/css" href="BeyondD.css">
+  </head>
 
 
 
-/* header */
-.hlogo {
-  font-family: "Franklin Gothic Medium";
-  color: purple;
-  font-size: 2.4vw;
-  margin: 0px;
-  padding: 0.1vw 0vw 0.1vw 0.5vw;
-  padding-top: 0.1vw;
-  padding-bottom: 0.1vw;
-  background-color: white;
-  color: purple;
-}
+
+  <body>
+    <header>
+      <div class="hlogo">
+        Beyond
+        <span class="hd">
+          Description
+        </span>
+      </div>
+    </header>
 
 
-.header{
-  background-color: white;
-  margin: 0px;
-  width: 2000px;
-  padding: 0px,20px,0px,20px;
-}
-
-.hlist{
-  margin: 0px;
-}
-
-.hlist ul{
-  margin: 0px;
-  padding-left: 0px;
-  padding-right: 10px;
-}
-
-.hlist li{
-  float: left;
-  list-style: none;
-  background-color: aqua;
-  color: white;
-  margin: 0px;
-  padding-top: 0.1vw;
-  padding-bottom: 0.1vw;
-}
-
-.hll{
-  padding-left: 2vw;
-  padding-right: 4vw;
-}
-
-.hlh{
-  padding-right: 4vw;
-}
-
-.hld{
-  padding-right: 100vw;
-}
+    <div class="header">
+      <div class="hlist">
+        <ul>
+          <li class="hll"><a class="hlist" href="https://plancke.io/hypixel/guild/name/beyond%20description">Member List</a></li>
+          <li class="hlh"><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-history/">History</a></li>
+          <li class='hld'><a class="hlist" href="https://discord.gg/8u4FrXW">Discord</a></li>
+        </ul>
+      </div>
+    </div>
 
 
 
-/* main */
-.main{
-  background-color: white;
-  margin: 4vw 10vw;
-  padding: 0.2vw 8vw;
-}
+    <div class="main">
+
+      <h1 class="mf">
+        Welcome to <big><em>"Beyond Description"</em></big> thread!
+      </h1>
+
+      <h1 class="mit">
+        - Info -
+      </h1>
+
+      <div class="mi">
+        name<brwww>
+        Beyond Description
+      </div>
 
 
-/* main-First */
-.mf{
-  color: orange;
-  font-size: 2.5vw;
-  padding-left: 3.5vw;
-}
+      <h1 class="maut">
+        - About us -
+      </h1>
+
+      <div class="mau">
+        script.
+      </div>
 
 
-/* main-Info */
-.mit{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-left: 28vw;
-  padding-right: 28vw;
-}
+      <h1 class="mgrt">
+        - Requirement -
+      </h1>
 
-.mi{
-  font-family: YuMincho;
-}
-
-
-/* main-About us*/
-.maut{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-left: 24vw;
-  padding-right: 24vw;
-}
-
-.mau{
-  font-family: YuMincho;
-}
+      <div class="mgr">
+        <span class="mgrn1">1</span><span class="mgrd">.</span>Hypixel level <U><strong><span class="mgrhl">50+</span></strong></U><I><span class="mgrm"> (May be allowed exceptionally)</span></I><br>
+        <span class="mgrn2">2</span><span class="mgrd">.</span>Must be <U><strong><span class="mgry">15 years or older</span></strong></U><br>
+        <span class="mgrn3">3</span><span class="mgrd">.</span>Be an active player<br>
+        <span class="mgrn4">4</span><span class="mgrd">.</span><U><span class="mgrw">Swearing</span>, <span class="mgrw">spamming</span>, <span class="mgrw">being inapproapriate</span>, etc. is <strong><span class="mgrw2">NOT allowed</span></strong></U><br>
+        <span class="mgrn5">5</span><spanclass="mgrd">.</span><strong><span class="mgrw2">DO NOT</span></strong> use cheating<br>
+        <span class="mgrn6">6</span><span class="mgrd">.</span>Have a positive attitude<br>
+        <span class="mgrn7">7</span><span class="mgrd">.</span><I><strong><span class="mgre">Enjoy!!!</span></strong></I>
+      </div>
 
 
-/* main-Guild requirement */
-.mgrt{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-left: 21vw;
-  padding-right: 21vw;
-}
+      <h1 class="mhtat">
+        - How to apply -
+      </h1>
 
-.mgr{
-  font-family: YuMincho;
-}
+      <div class="mhta">
+        script.
+      </div>
 
 
-/* main-How to apply */
-.mhtat{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-left: 21vw;
-  padding-right: 21vw;
-}
+      <h1 class="mmt">
+        - Members -
+      </h1>
 
-.mhta{
-  font-family: YuMincho;
-}
+      <div class="mm">
+        Script.
+      </div>
 
 
-/* main-Members */
-.mmt{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-left: 24vw;
-}
+    </div>
 
-.mm{
-  font-family: YuMincho;
-}
+
+  </body>
+</html>
