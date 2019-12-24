@@ -22,7 +22,230 @@
 
     <div class="header">
       <div class="hlist">
-        <ul>
+        <ul>/* body */
+body{
+  background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+
+
+/* header */
+.hlogo {
+  font-family: "Franklin Gothic Medium";
+  color: rgb(147, 47, 180);
+  font-size: 2.5vw;
+  margin: 0px;
+  padding: 0.1vw 0vw 0.1vw 0.5vw;
+  padding-top: 0.1vw;
+  padding-bottom: 0.1vw;
+  background-color: white;
+}
+
+
+.hd{
+  color: rgb(255, 0, 0);
+}
+
+
+.header{
+  background-color: white;
+  margin: 0px;
+  padding: 0px,20px,0px,20px;
+}
+
+.hlist{
+  margin: 0px;
+  border: thin solid black;
+}
+
+.hlist ul{
+  margin: 0px;
+  padding-left: 0px;
+}
+
+.hlist li{
+  float: left;
+  list-style: none;
+  background-color: aqua;
+  color: white;
+  margin: 0px;
+  padding-top: 0.1vw;
+  padding-bottom: 0.1vw;
+}
+
+.hll{
+  font-size: 1.1vw;
+  padding-left: 5vw;
+  padding-right: 4vw;
+}
+
+.hlh{
+  font-size: 1.1vw;
+  padding-right: 4vw;
+}
+
+.hld{
+  font-size: 1.1vw;
+  padding-right: 5.5vw;
+}
+
+
+
+/* main */
+.main{
+  background-color: white;
+  margin: 4vw 10vw;
+  padding: 3vw 8vw;
+  border: thin solid aqua;
+}
+
+
+/* main-First */
+.mf{
+  color: orange;
+  font-size: 2.5vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  border-bottom: medium solid aqua;
+}
+
+
+/* main-Info */
+.mit{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 25.5vw;
+  padding-right: 25.5vw;
+}
+
+.mi{
+  font-family: YuMincho;
+  border-left: thin solid gray;
+  border-right: thin solid gray;
+}
+
+
+/* main-About us*/
+.maut{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 21.5vw;
+  padding-right: 21.5vw;
+}
+
+.mau{
+  font-family: YuMincho;
+}
+
+
+/* main-Guild requirement */
+.mgrt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 18.5vw;
+  padding-right: 18.5vw;
+}
+
+.mgr{
+  font-family: YuMincho;
+  font-size: 1.5vw;
+  padding-left: 7vw;
+  border-left: thin solid gray;
+  border-right: thin solid gray;
+}
+
+.mgrd{
+  color:gray;
+}
+
+.mgrn1{
+  color: blue;
+}
+
+.mgrhl{
+  color: gold;
+}
+
+.mgrm{
+  color: red;
+}
+
+.mgrn2{
+  color: aqua;
+}
+
+.mgry{
+  color: red;
+}
+
+.mgrn3{
+  color: darkgreen;
+}
+
+.mgrn4{
+  color: orange;
+}
+
+.mgrw{
+  color: red;
+}
+
+.mgrw2{
+  color: darkred;
+}
+
+.mgrn5{
+  color: red;
+}
+
+.mgrn6{
+  color: gold;
+}
+
+.mgrn7{
+  color: magenta;
+}
+
+.mgre{
+  color: gold;
+}
+
+
+/* main-How to apply */
+.mhtat{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 18.5vw;
+  padding-right: 18.5vw;
+}
+
+.mhta{
+  font-family: YuMincho;
+}
+
+
+/* main-Members */
+.mmt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 21.5vw;
+  padding-right: 21.5vw;
+}
+
+.mm{
+  font-family: YuMincho;
+}
+
           <li class="hll"><a class="hlist" href="https://plancke.io/hypixel/guild/name/beyond%20description">Member List</a></li>
           <li class="hlh"><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-history/">History</a></li>
           <li class='hld'><a class="hlist" href="https://discord.gg/8u4FrXW">Discord</a></li>
