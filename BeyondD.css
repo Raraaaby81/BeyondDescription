@@ -9,6 +9,15 @@ body{
 }
 
 
+.tc{
+  color: yellow;
+}
+
+.d{
+  color: gray;
+}
+
+
 
 /* header */
 .hlogo {
@@ -30,7 +39,7 @@ body{
   background-color: white;
   margin: 0px;
   padding: 0px,20px,0px,20px;
-  box-shadow: 0 0 3px rgba(0,0,0,2);;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
 }
 
 .hlist{
@@ -48,7 +57,7 @@ body{
   list-style: none;
   background-color: aqua;
   color: white;
-  box-shadow: 0 0 3px rgba(0,0,0,1) inset;
+  box-shadow: 0 0 2px rgba(0,0,0,0.5) inset;
   margin: 0px;
   padding-top: 0.1vw;
   padding-bottom: 0.1vw;
@@ -86,8 +95,8 @@ body{
 .mf{
   color: orange;
   font-size: 2.5vw;
-  padding-left: 1vw;
-  padding-right: 1vw;
+  padding-left: 0.8vw;
+  padding-right: 0.8vw;
   border-bottom: medium solid aqua;
 }
 
@@ -105,6 +114,98 @@ body{
   font-family: YuMincho;
   border-left: thin solid gray;
   border-right: thin solid gray;
+  padding: 1vw 5vw;
+}
+
+.min{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.min1{
+  font-size: 1.5vw;
+}
+.min2{
+  font-size: 3vw;
+  color: purple;
+  padding-left: 2vw;
+}
+
+.migl{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.migl1{
+  font-size: 1.5vw;
+}
+.migl2{
+  font-size: 2vw;
+  color: gold;
+  padding-left: 2vw;
+}
+
+.migm{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.migm1{
+  font-size: 1.5vw;
+}
+.migm2{
+  font-size: 2vw;
+  padding-left: 2vw;
+}
+.migm21{
+  color: blue;
+}
+.migm22{
+  color: gray;
+}
+.migm23{
+  color: red;
+}
+
+.migt{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.migt1{
+  font-size: 1.5vw;
+}
+.migt2{
+  font-size: 2vw;
+  padding-left: 2vw;
+}
+
+.migg{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.migg1{
+  font-size: 1.5vw;
+}
+.migg2{
+  font-size: 2vw;
+  color: red;
+  padding-left: 2vw;
+}
+.migg3{
+  font-size: 1vw;
+  color: gray;
+  padding-left: 3vw;
+}
+
+.migr{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.migr1{
+  font-size: 1.5vw;
 }
 
 
@@ -259,6 +360,10 @@ footer{
 }
 
 
+
+
+
+
 /* footer-name */
 .fn{
   font-size: 1.3vw;
@@ -266,5 +371,4 @@ footer{
   padding-top: 1vw;
   padding-bottom: 2vw;
   padding-left: 85vw;
-
 }
