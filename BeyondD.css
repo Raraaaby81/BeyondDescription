@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Beyond Description</title>
-    <link rel="stylesheet" type="text/css" href="BeyondD.css">
-  </head>
-
-
-
-
-  <body>
-    <header>
-      <div class="hlogo">
-        Beyond
-        <span class="hd">
-          Description
-        </span>
-      </div>
-    </header>
-
-
-    <div class="header">
-      <div class="hlist">
-        <ul>/* body */
+/* body */
 body{
   background-image: url("https://cdn.discordapp.com/attachments/294771564115656704/657602923781554197/xtU31Id_1.png");
   background-size: cover;
@@ -41,8 +17,6 @@ body{
   font-size: 2.5vw;
   margin: 0px;
   padding: 0.1vw 0vw 0.1vw 0.5vw;
-  padding-top: 0.1vw;
-  padding-bottom: 0.1vw;
   background-color: white;
 }
 
@@ -56,6 +30,7 @@ body{
   background-color: white;
   margin: 0px;
   padding: 0px,20px,0px,20px;
+  box-shadow: 0 0 3px rgba(0,0,0,2);;
 }
 
 .hlist{
@@ -73,6 +48,7 @@ body{
   list-style: none;
   background-color: aqua;
   color: white;
+  box-shadow: 0 0 3px rgba(0,0,0,1) inset;
   margin: 0px;
   padding-top: 0.1vw;
   padding-bottom: 0.1vw;
@@ -99,9 +75,10 @@ body{
 /* main */
 .main{
   background-color: white;
-  margin: 4vw 10vw;
+  margin: 7vw 10vw;
   padding: 3vw 8vw;
-  border: thin solid aqua;
+  border: 2px solid aqua;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
 }
 
 
@@ -224,8 +201,8 @@ body{
   font-size: 3vw;
   font-family: "Lucida Grande";
   padding-top: 2vw;
-  padding-left: 18.5vw;
-  padding-right: 18.5vw;
+  padding-left: 18vw;
+  padding-right: 18vw;
 }
 
 .mhta{
@@ -246,75 +223,48 @@ body{
   font-family: YuMincho;
 }
 
-          <li class="hll"><a class="hlist" href="https://plancke.io/hypixel/guild/name/beyond%20description">Member List</a></li>
-          <li class="hlh"><a class="hlist" href="https://raraaaby81.github.io/BeyondDescription-history/">History</a></li>
-          <li class='hld'><a class="hlist" href="https://discord.gg/8u4FrXW">Discord</a></li>
-        </ul>
-      </div>
-    </div>
 
 
+/* footer */
+footer{
+  font-family: arial;
+  font-size: 2.5vw;
+  margin: 0px;
+  padding: 0px;
+  background-color: #24292e;
+}
 
-    <div class="main">
-
-      <h1 class="mf">
-        Welcome to <big><em>"Beyond Description"</em></big> thread!
-      </h1>
-
-      <h1 class="mit">
-        - Info -
-      </h1>
-
-      <div class="mi">
-        name<brwww>
-        Beyond Description
-      </div>
+.footer{
+  padding: 1vw 1vw;
+}
 
 
-      <h1 class="maut">
-        - About us -
-      </h1>
+/* footer-contact us */
+.fc{
+  color:white;
+  font-size: 2vw;
+  border: thin solid gray;
+}
 
-      <div class="mau">
-        script.
-      </div>
+.footer li{
+  list-style: none;
+  font-size: 1.3vw;
+  padding-left: 2vw;
+}
 
+.fcd{
+}
 
-      <h1 class="mgrt">
-        - Requirement -
-      </h1>
-
-      <div class="mgr">
-        <span class="mgrn1">1</span><span class="mgrd">.</span>Hypixel level <U><strong><span class="mgrhl">50+</span></strong></U><I><span class="mgrm"> (May be allowed exceptionally)</span></I><br>
-        <span class="mgrn2">2</span><span class="mgrd">.</span>Must be <U><strong><span class="mgry">15 years or older</span></strong></U><br>
-        <span class="mgrn3">3</span><span class="mgrd">.</span>Be an active player<br>
-        <span class="mgrn4">4</span><span class="mgrd">.</span><U><span class="mgrw">Swearing</span>, <span class="mgrw">spamming</span>, <span class="mgrw">being inapproapriate</span>, etc. is <strong><span class="mgrw2">NOT allowed</span></strong></U><br>
-        <span class="mgrn5">5</span><spanclass="mgrd">.</span><strong><span class="mgrw2">DO NOT</span></strong> use cheating<br>
-        <span class="mgrn6">6</span><span class="mgrd">.</span>Have a positive attitude<br>
-        <span class="mgrn7">7</span><span class="mgrd">.</span><I><strong><span class="mgre">Enjoy!!!</span></strong></I>
-      </div>
+.fcg{
+}
 
 
-      <h1 class="mhtat">
-        - How to apply -
-      </h1>
+/* footer-name */
+.fn{
+  font-size: 1.3vw;
+  color: purple;
+  padding-top: 1vw;
+  padding-bottom: 2vw;
+  padding-left: 85vw;
 
-      <div class="mhta">
-        script.
-      </div>
-
-
-      <h1 class="mmt">
-        - Members -
-      </h1>
-
-      <div class="mm">
-        Script.
-      </div>
-
-
-    </div>
-
-
-  </body>
-</html>
+}
