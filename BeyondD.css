@@ -22,16 +22,17 @@ body{
 /* header */
 .hlogo {
   font-family: "Franklin Gothic Medium";
-  color: rgb(147, 47, 180);
-  font-size: 2.8vw;
+  color: Blue;
+  font-size: 2.5vw;
   margin: 0px;
-  padding: 0.1vw 0vw 0.1vw 0.5vw;
+  padding: 0.1vw 0vw 0vw 0.5vw;
   background-color: white;
 }
-
-
-.hd{
-  color: rgb(255, 0, 0);
+.hbti{
+  font-size: 1.5vw;
+  color: #0095ffba;
+  margin: 0vw;
+  padding-left: 3vw;
 }
 
 
@@ -127,6 +128,20 @@ body{
 .min2{
   font-size: 3vw;
   color: purple;
+  padding-left: 2vw;
+}
+
+.mim{
+  border: thin solid #e6e6e6;
+  padding: 1vw 8vw;
+  margin-bottom: 1vw;
+}
+.mim1{
+  font-size: 1.5vw;
+}
+.mim2{
+  font-size: 2vw;
+  color: red;
   padding-left: 2vw;
 }
 
@@ -232,6 +247,10 @@ body{
   font-size: 1.5vw;
 }
 
+.gra{
+  padding-left: 2vw;
+}
+
 .ma{
   border: thin solid #800080d4;
   margin-top: 0.8vw;
@@ -243,6 +262,9 @@ body{
   color: purple;
 }
 .maa{
+  padding-left: 1vw;
+}
+.maad{
   padding-left: 1vw;
 }
 
@@ -258,6 +280,9 @@ body{
 .coa{
   padding-left: 1vw;
 }
+.coad{
+  padding-left: 1vw;
+}
 
 .le{
   border: thin solid #ffa500d4;
@@ -269,6 +294,9 @@ body{
   color: orange;
 }
 .lea{
+  padding-left: 1vw;
+}
+.lead{
   padding-left: 1vw;
 }
 
@@ -284,6 +312,9 @@ body{
 .ada{
   padding-left: 1vw;
 }
+.adad{
+  padding-left: 1vw;
+}
 
 .sm{
   border: thin solid #0000ffd6;
@@ -297,6 +328,9 @@ body{
 .sma{
   padding-left: 1vw;
 }
+.smad{
+  padding-left: 1vw;
+}
 
 .me{
   border: thin solid #00ffffd4;
@@ -308,6 +342,9 @@ body{
   color: aqua;
 }
 .mea{
+  padding-left: 1vw;
+}
+.mead{
   padding-left: 1vw;
 }
 
@@ -339,6 +376,8 @@ body{
   font-family: YuMincho;
   font-size: 1.5vw;
   padding-left: 7vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
   border-left: thin solid gray;
   border-right: thin solid gray;
 }
@@ -409,8 +448,48 @@ body{
   border-bottom: medium solid #737373;
 }
 
-.mhta{
+.mhtaa{
   font-family: YuMincho;
+  padding: 1vw 7vw;
+  border-left: thin solid gray;
+  border-right: thin solid gray;
+
+}
+
+.mhtaf{
+  font-size: 2vw;
+  padding-bottom: 1vw;
+}
+
+.mhtad{
+  border: thin solid #e6e6e6;
+  padding: 1vw 2vw;
+  margin-bottom: 1vw;
+}
+.mhtadn{
+  color: purple;
+  font-size: 2vw;
+}
+.mhtadd{
+  font-size: 1.3vw;
+}
+.mhtaddc1{
+  color: #149ada;
+}
+.mhtaddc2{
+  color: #1deaea;
+}
+
+.mhtag{
+  border: thin solid #e6e6e6;
+  padding: 1vw 2vw;
+}
+.mhtagn{
+  color: blue;
+  font-size: 2vw;
+}
+.mhtagd{
+  font-size: 1.3vw;
 }
 
 
