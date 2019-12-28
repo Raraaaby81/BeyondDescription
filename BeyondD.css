@@ -19,6 +19,8 @@ body{
 
 
 
+
+
 /* header */
 .hlogo {
   font-family: "Franklin Gothic Medium";
@@ -63,9 +65,14 @@ body{
   padding-bottom: 0.3vw;
 }
 
-.hll{
+.hlb{
   font-size: 1.3vw;
   padding-left: 5vw;
+  padding-right: 4vw;
+}
+
+.hll{
+  font-size: 1.3vw;
   padding-right: 4vw;
 }
 
@@ -251,6 +258,7 @@ body{
   padding-left: 2vw;
 }
 
+/* Master */
 .ma{
   border: thin solid #800080d4;
   margin-top: 0.8vw;
@@ -268,6 +276,7 @@ body{
   padding-left: 1vw;
 }
 
+/* Co-Owner */
 .co{
   border: thin solid #ff00ffd4;
   margin-bottom: 1vw;
@@ -284,6 +293,7 @@ body{
   padding-left: 1vw;
 }
 
+/* Leader */
 .le{
   border: thin solid #ffa500d4;
   margin-bottom: 1vw;
@@ -300,8 +310,9 @@ body{
   padding-left: 1vw;
 }
 
+/* Admin */
 .ad{
-  border: thin solid #ffd700d6;
+  border: thin solid #ffd700d4;
   margin-bottom: 1vw;
   padding: 1.5vw;
 }
@@ -316,8 +327,9 @@ body{
   padding-left: 1vw;
 }
 
+/* Super Member */
 .sm{
-  border: thin solid #0000ffd6;
+  border: thin solid #0000ffd4;
   margin-bottom: 1vw;
   padding: 1.5vw;
 }
@@ -332,6 +344,7 @@ body{
   padding-left: 1vw;
 }
 
+/* Member */
 .me{
   border: thin solid #00ffffd4;
   margin-bottom: 1vw;
@@ -355,7 +368,7 @@ body{
   font-family: "Lucida Grande";
   padding-top: 2vw;
   padding-left: 1vw;
-  border-bottom: medium solid #737373;
+  border-bottom: medium solid black;
 }
 
 .mau{
@@ -369,7 +382,7 @@ body{
   font-family: "Lucida Grande";
   padding-top: 2vw;
   padding-left: 1vw;
-  border-bottom: medium solid #737373;
+  border-bottom: medium solid black;
 }
 
 .mgr{
@@ -445,7 +458,7 @@ body{
   font-family: "Lucida Grande";
   padding-top: 2vw;
   padding-left: 1vw;
-  border-bottom: medium solid #737373;
+  border-bottom: medium solid black;
 }
 
 .mhtaa{
@@ -490,20 +503,6 @@ body{
 }
 .mhtagd{
   font-size: 1.3vw;
-}
-
-
-/* main-Members */
-.mmt{
-  font-size: 3vw;
-  font-family: "Lucida Grande";
-  padding-top: 2vw;
-  padding-left: 1vw;
-  border-bottom: medium solid #737373;
-}
-
-.mm{
-  font-family: YuMincho;
 }
 
 
