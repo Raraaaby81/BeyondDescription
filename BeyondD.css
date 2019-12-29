@@ -90,7 +90,7 @@ body{
 
 /* main */
 .main{
-  background-color: white;
+  background-color: #ffffffe6;
   margin: 7vw 10vw;
   padding: 3vw 8vw;
   border: 2px solid aqua;
@@ -241,7 +241,7 @@ body{
 }
 .migg3{
   font-size: 1vw;
-  color: gray;
+  color: #2d2d2d;
   padding-left: 3vw;
 }
 
