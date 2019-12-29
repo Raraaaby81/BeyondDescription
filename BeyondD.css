@@ -58,7 +58,7 @@ body{
 .hlist li{
   float: left;
   list-style: none;
-  background-color: aqua;
+  background-color: #627cd042;
   color: white;
   margin: 0px;
   padding-top: 0.3vw;
@@ -254,9 +254,6 @@ body{
   font-size: 1.5vw;
 }
 
-.gra{
-  padding-left: 2vw;
-}
 
 /* Master */
 .ma{
@@ -525,26 +522,39 @@ footer{
   padding: 1vw 1vw;
 }
 
-
-/* footer-contact us */
-.fc{
-  color:white;
-  font-size: 2vw;
-  border: thin solid gray;
-}
-
 .footer li{
   list-style: none;
   font-size: 1.3vw;
   padding-left: 2vw;
 }
 
+/* footer-Official Info */
+.oi{
+  color:white;
+  font-size: 2vw;
+  padding: 0.5vw 1vw;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  border: thin solid gray;
+}
+.oihf{
+}
+.oihm{
+}
+.oipi{
+}
+
+/* footer-Contact Us */
+.fc{
+  color:white;
+  font-size: 2vw;
+  padding: 0.5vw 1vw;
+  border: thin solid gray;
+}
 .fcd{
 }
-
 .fcg{
 }
-
 
 /* footer-name */
 .fn{
@@ -554,8 +564,8 @@ footer{
   padding-bottom: 1vw;
   padding-left: 85vw;
 }
-
 .fnm{
   color: #191f25b0;
-  font-size: 1vw;
+  font-size: 0.8vw;
+  padding-left: 8vw;
 }
