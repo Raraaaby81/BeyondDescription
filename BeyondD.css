@@ -373,6 +373,10 @@ body{
 
 .mau{
   font-family: YuMincho;
+  font-size: 1.8vw;
+  padding: 1vw 7vw;
+  border-left: thin solid gray;
+  border-right: thin solid gray;
 }
 
 
@@ -513,7 +517,7 @@ footer{
   font-size: 2.5vw;
   margin: 0px;
   padding: 0px;
-  background-color: #24292e;
+  background-color: #0a0b0ce6;
   box-shadow: 0 0 10vw,0 0 2vw inset;
 }
 
@@ -547,6 +551,11 @@ footer{
   font-size: 1.3vw;
   color: purple;
   padding-top: 1vw;
-  padding-bottom: 2vw;
+  padding-bottom: 1vw;
   padding-left: 85vw;
+}
+
+.fnm{
+  color: #191f25b0;
+  font-size: 1vw;
 }
