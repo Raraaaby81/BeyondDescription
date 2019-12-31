@@ -108,6 +108,85 @@ body{
 }
 
 
+/* main-News */
+.join{
+  font-size: 1.5vw;
+  color: #e8e819;
+}
+.left{
+  color: purple;
+  font-size: 1.5vw;
+}
+.prom{
+  color: blue;
+  font-size: 1.8vw;
+}
+.demo{
+  color: red;
+  font-size: 1.8vw;
+}
+.kick{
+  color: green;
+  font-size: 1.8vw;
+}
+.leve{
+  color: gold;
+  font-size: 1.8vw;
+}
+
+.nma{
+  color: purple;
+}
+.nco{
+  color: magenta;
+}
+.nle{
+  color: orange;
+}
+.nad{
+  color: gold;
+}
+.nsm{
+  color: blue;
+}
+.nme{
+  color: aqua;
+}
+
+.mnt{
+  font-size: 3vw;
+  font-family: "Lucida Grande";
+  padding-top: 2vw;
+  padding-left: 1vw;
+  border-bottom:medium solid black;
+}
+.mn{
+  font-family: YuMincho;
+  border-left: thin solid #737373;
+  border-right: thin solid #737373;
+  padding: 1vw 5vw;
+}
+.mnd{
+  font-size: 1.8vw;
+  padding: 0.5vw 1vw;
+  margin-bottom: 0.5vw;
+  border: thin solid #b5b5b5;
+  background-color: #cecece29;
+}
+.mndt{
+  font-size: 1vw;
+  color: gray;
+}
+.mndd{
+  font-size: 1.5vw;
+  padding-left: 1vw;
+}
+.mnddd{
+  padding-left: 1vw;
+}
+
+
+
 /* main-Info */
 .mit{
   font-size: 3vw;
