@@ -133,6 +133,14 @@ body{
   color: gold;
   font-size: 1.8vw;
 }
+.pic{
+  width: 45vw;
+}
+.picn{
+  font-size: 1.3vw;
+  color: gold;
+  padding-left: 40vw;
+}
 
 .nma{
   color: purple;
