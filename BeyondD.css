@@ -109,9 +109,18 @@ body{
 
 
 /* main-News */
-.join{
+.guil{
+  color: green;
   font-size: 1.8vw;
+}
+.guila{
+  color: black;
+  font-size: 1.8vw;
+  padding-left: 1vw;
+}
+.join{
   color: #e8e819;
+  font-size: 1.8vw;
 }
 .leav{
   color: purple;
@@ -137,8 +146,8 @@ body{
   width: 45vw;
 }
 .picn{
-  font-size: 1.3vw;
   color: gold;
+  font-size: 1.3vw;
   padding-left: 40vw;
 }
 
