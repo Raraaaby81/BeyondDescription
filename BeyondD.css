@@ -146,9 +146,9 @@ body{
   width: 45vw;
 }
 .picn{
-  color: gold;
+  color: blue;
   font-size: 1.3vw;
-  padding-left: 40vw;
+  text-align: right;
 }
 
 .nma{
